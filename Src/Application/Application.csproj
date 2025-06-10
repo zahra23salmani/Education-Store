@@ -15,6 +15,7 @@
     <Folder Include="Common\" />
     <Folder Include="Features\Products\Commands\" />
     <Folder Include="Features\Products\Validators\" />
+    <Folder Include="Features\ProductTypes\Queries\GetAll\" />
     <Folder Include="Interfaces\" />
   </ItemGroup>
 
